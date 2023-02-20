@@ -2,8 +2,8 @@
 
 Web view
 
-![Screenshot 2023-02-20 at 12 10 17 AM](https://user-images.githubusercontent.com/112312834/219960144-89a32ec3-eaef-4ed1-a464-797dae8945c2.png)
+<img width="1436" alt="Screenshot 2023-02-20 at 11 57 46 PM" src="https://user-images.githubusercontent.com/112312834/220152998-9a2a47ae-5028-41d7-bac9-3ca3928d2c19.png">
 
 Phone view
 
-![Screenshot 2023-02-20 at 12 12 01 AM](https://user-images.githubusercontent.com/112312834/219960223-b5c51cef-226a-4ffa-97ea-35c051d1946d.png)
+<img width="398" alt="Screenshot 2023-02-20 at 11 58 02 PM" src="https://user-images.githubusercontent.com/112312834/220153044-32e88bfb-302a-4437-8efb-cca2145fc810.png">
